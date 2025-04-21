@@ -1,0 +1,1 @@
+ollama == llama3.2 or llama2:7b or tinyllma
