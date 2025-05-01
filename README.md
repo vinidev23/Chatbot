@@ -1,7 +1,7 @@
 Projeto ChatBot
 
 - 📚 Descrição
-Este é um ChatBot simples construído em Python, utilizando o modelo llama3.2 da biblioteca ollama. Ele permite que os usuários conversem com a IA diretamente pelo terminal.
+Este é um ChatBot simples construído em Python, utilizando o modelo llama3.2 da biblioteca ollama. Ele permite que os usuários conversem com a IA diretamente pelo terminal e acompanham o valor da cotação da moeda.
 
 - 🚀 Funcionalidades
 Respostas dinâmicas usando o modelo llama3.2.
@@ -18,7 +18,7 @@ Python 3.8 ou superior
 Bibliotecas listadas no requirements.txt (veja abaixo)
 
 - ⚙️ Instalação
-1- Clone este repositório: git clone https://github.com/seu-usuario/seu-repositorio.git
+1- Clone este repositório: git clone https://github.com/vinidev23/Chatbot
 
 2- Acesse o diretório do projeto: cd projeto_chatbot
 
